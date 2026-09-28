@@ -1,0 +1,8 @@
+Research artifact v0.2.2 — anonymous review edition
+
+Statistical and consensus routines were extracted from the study's analysis
+implementation. API clients and production engine code are not distributed.
+Editorial changes isolate imports, remove live execution and redact study
+identifiers. Computational formulas and original numeric verdicts are kept.
+Korean materials control experimental interpretation; English translations
+are informational and await independent review.

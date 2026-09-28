@@ -1,0 +1,102 @@
+[
+  {
+    "branch": "career",
+    "total_pairs": 90,
+    "a_wins": 39,
+    "b_wins": 51,
+    "ties": 0,
+    "n": 90,
+    "undecidable": 0,
+    "b_winrate": 0.567,
+    "ci95": [
+      0.467,
+      0.667
+    ],
+    "per_judge": {
+      "claude-opus-4-6": 0.589,
+      "openai/gpt-5.4": 0.489,
+      "claude-sonnet-4-6": 0.556
+    },
+    "position_swapped_share": 0.474
+  },
+  {
+    "branch": "hope_return",
+    "total_pairs": 90,
+    "a_wins": 41,
+    "b_wins": 49,
+    "ties": 0,
+    "n": 90,
+    "undecidable": 0,
+    "b_winrate": 0.544,
+    "ci95": [
+      0.444,
+      0.644
+    ],
+    "per_judge": {
+      "claude-opus-4-6": 0.6,
+      "openai/gpt-5.4": 0.6,
+      "claude-sonnet-4-6": 0.5
+    },
+    "position_swapped_share": 0.463
+  },
+  {
+    "branch": "local_gov",
+    "total_pairs": 90,
+    "a_wins": 31,
+    "b_wins": 57,
+    "ties": 0,
+    "n": 88,
+    "undecidable": 2,
+    "b_winrate": 0.648,
+    "ci95": [
+      0.545,
+      0.739
+    ],
+    "per_judge": {
+      "claude-opus-4-6": 0.642,
+      "openai/gpt-5.4": 0.591,
+      "claude-sonnet-4-6": 0.676
+    },
+    "position_swapped_share": 0.451
+  },
+  {
+    "branch": "outplacement",
+    "total_pairs": 90,
+    "a_wins": 36,
+    "b_wins": 54,
+    "ties": 0,
+    "n": 90,
+    "undecidable": 0,
+    "b_winrate": 0.6,
+    "ci95": [
+      0.489,
+      0.7
+    ],
+    "per_judge": {
+      "claude-opus-4-6": 0.567,
+      "openai/gpt-5.4": 0.511,
+      "claude-sonnet-4-6": 0.6
+    },
+    "position_swapped_share": 0.5
+  },
+  {
+    "branch": "university",
+    "total_pairs": 90,
+    "a_wins": 43,
+    "b_wins": 47,
+    "ties": 0,
+    "n": 90,
+    "undecidable": 0,
+    "b_winrate": 0.522,
+    "ci95": [
+      0.422,
+      0.622
+    ],
+    "per_judge": {
+      "claude-opus-4-6": 0.478,
+      "openai/gpt-5.4": 0.522,
+      "claude-sonnet-4-6": 0.522
+    },
+    "position_swapped_share": 0.511
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "denominator_csv_rows": 234,
+  "historical_sheet_count": 221,
+  "classification_counts": {
+    "out_of_scope_ui": 88,
+    "out_of_scope_other": 92,
+    "seed_and_rubric": 52,
+    "rubric_only": 2
+  },
+  "classified_rows": 234,
+  "classification_coverage": 1.0,
+  "behavior_rows": 54,
+  "behavior_seed_or_rubric": 54,
+  "behavior_coverage": 1.0,
+  "behavior_direct_seed_rows": 52,
+  "behavior_direct_seed_coverage": 0.9629629629629629,
+  "reconciled_seed_links": 9,
+  "rubric_only_rows": [
+    175,
+    217
+  ],
+  "note": "Primary-code mapping coverage, not issue resolution, secondary-issue completeness, or test pass rate."
+}

@@ -1,0 +1,267 @@
+{
+  "conditions": {
+    "C0": {
+      "n": 450,
+      "composite_mean": 0.911,
+      "composite_sd": 0.795,
+      "failure_rate": {
+        "F1": 0.033,
+        "F2": 0.004,
+        "F3": 0.0,
+        "F4": 0.0,
+        "F5": 0.158,
+        "F6": 1.0,
+        "F7": 0.191
+      },
+      "scores_mean": {
+        "process": 2.204,
+        "exploration": 2.529,
+        "accuracy": 2.98,
+        "personalization": 2.922,
+        "actionability": 2.711,
+        "empathy": 3.942,
+        "branch_fit": 2.778
+      }
+    },
+    "C1": {
+      "n": 450,
+      "composite_mean": 1.972,
+      "composite_sd": 1.051,
+      "failure_rate": {
+        "F1": 0.471,
+        "F2": 0.009,
+        "F3": 0.002,
+        "F4": 0.0,
+        "F5": 0.042,
+        "F6": 0.147,
+        "F7": 0.089
+      },
+      "scores_mean": {
+        "process": 3.753,
+        "exploration": 2.96,
+        "accuracy": 2.842,
+        "personalization": 3.482,
+        "actionability": 3.511,
+        "empathy": 4.0,
+        "branch_fit": 3.533
+      }
+    },
+    "C2": {
+      "n": 450,
+      "composite_mean": 2.764,
+      "composite_sd": 0.841,
+      "failure_rate": {
+        "F1": 0.058,
+        "F2": 0.0,
+        "F3": 0.0,
+        "F4": 0.033,
+        "F5": 0.062,
+        "F6": 0.109,
+        "F7": 0.091
+      },
+      "scores_mean": {
+        "process": 4.071,
+        "exploration": 3.109,
+        "accuracy": 3.898,
+        "personalization": 3.593,
+        "actionability": 3.831,
+        "empathy": 3.951,
+        "branch_fit": 3.86
+      }
+    },
+    "C3": {
+      "n": 450,
+      "composite_mean": 2.858,
+      "composite_sd": 0.779,
+      "failure_rate": {
+        "F1": 0.08,
+        "F2": 0.0,
+        "F3": 0.0,
+        "F4": 0.022,
+        "F5": 0.044,
+        "F6": 0.082,
+        "F7": 0.069
+      },
+      "scores_mean": {
+        "process": 4.149,
+        "exploration": 3.18,
+        "accuracy": 3.833,
+        "personalization": 3.642,
+        "actionability": 3.94,
+        "empathy": 4.022,
+        "branch_fit": 3.913
+      }
+    },
+    "C4": {
+      "n": 450,
+      "composite_mean": 3.212,
+      "composite_sd": 0.628,
+      "failure_rate": {
+        "F1": 0.104,
+        "F2": 0.0,
+        "F3": 0.0,
+        "F4": 0.004,
+        "F5": 0.031,
+        "F6": 0.027,
+        "F7": 0.018
+      },
+      "scores_mean": {
+        "process": 4.356,
+        "exploration": 3.482,
+        "accuracy": 3.938,
+        "personalization": 3.931,
+        "actionability": 4.467,
+        "empathy": 4.242,
+        "branch_fit": 4.064
+      }
+    }
+  },
+  "comparisons": {
+    "C0~C1": {
+      "n_pairs": 450,
+      "mean_a": 0.911,
+      "mean_b": 1.972,
+      "diff_mean": 1.061,
+      "wilcoxon_p": 1.1505904837789982e-48,
+      "diff_ci95": [
+        0.953,
+        1.167
+      ],
+      "pairwise": {
+        "n": 450,
+        "undecidable": 0,
+        "b_winrate": 0.893,
+        "ci95": [
+          0.864,
+          0.922
+        ],
+        "per_judge": {
+          "claude-opus-4-6": 0.88,
+          "openai/gpt-5.4": 0.702,
+          "claude-sonnet-4-6": 0.938
+        },
+        "position_swapped_share": 0.504
+      },
+      "wilcoxon_p_holm": 4.602361935115993e-48,
+      "significant_005": true
+    },
+    "C1~C2": {
+      "n_pairs": 450,
+      "mean_a": 1.972,
+      "mean_b": 2.764,
+      "diff_mean": 0.792,
+      "wilcoxon_p": 7.606241288380402e-31,
+      "diff_ci95": [
+        0.675,
+        0.911
+      ],
+      "pairwise": {
+        "n": 450,
+        "undecidable": 0,
+        "b_winrate": 0.784,
+        "ci95": [
+          0.744,
+          0.82
+        ],
+        "per_judge": {
+          "claude-opus-4-6": 0.744,
+          "openai/gpt-5.4": 0.787,
+          "claude-sonnet-4-6": 0.762
+        },
+        "position_swapped_share": 0.487
+      },
+      "wilcoxon_p_holm": 2.2818723865141207e-30,
+      "significant_005": true
+    },
+    "C2~C3": {
+      "n_pairs": 450,
+      "mean_a": 2.764,
+      "mean_b": 2.858,
+      "diff_mean": 0.095,
+      "wilcoxon_p": 0.11655180020347665,
+      "diff_ci95": [
+        -0.003,
+        0.191
+      ],
+      "pairwise": {
+        "n": 448,
+        "undecidable": 2,
+        "b_winrate": 0.576,
+        "ci95": [
+          0.529,
+          0.618
+        ],
+        "per_judge": {
+          "claude-opus-4-6": 0.575,
+          "openai/gpt-5.4": 0.542,
+          "claude-sonnet-4-6": 0.57
+        },
+        "position_swapped_share": 0.48
+      },
+      "wilcoxon_p_holm": 0.11655180020347665,
+      "significant_005": false
+    },
+    "C3~C4": {
+      "n_pairs": 450,
+      "mean_a": 2.858,
+      "mean_b": 3.212,
+      "diff_mean": 0.354,
+      "wilcoxon_p": 1.757224629204363e-15,
+      "diff_ci95": [
+        0.276,
+        0.436
+      ],
+      "pairwise": {
+        "n": 450,
+        "undecidable": 0,
+        "b_winrate": 0.736,
+        "ci95": [
+          0.696,
+          0.776
+        ],
+        "per_judge": {
+          "claude-opus-4-6": 0.716,
+          "openai/gpt-5.4": 0.68,
+          "claude-sonnet-4-6": 0.703
+        },
+        "position_swapped_share": 0.504
+      },
+      "wilcoxon_p_holm": 3.514449258408726e-15,
+      "significant_005": true
+    }
+  },
+  "n_judged": 2250,
+  "pairs": [
+    [
+      "C0",
+      "C1"
+    ],
+    [
+      "C1",
+      "C2"
+    ],
+    [
+      "C2",
+      "C3"
+    ],
+    [
+      "C3",
+      "C4"
+    ]
+  ],
+  "learning_curve": {
+    "iterations": 192,
+    "best_final": 4.0116,
+    "best_initial": 0.4341,
+    "png": "results/exp_full/learning_curve.png",
+    "gate_fail_count": 6,
+    "plateau_final": true,
+    "since_improve_final": 100
+  },
+  "consensus_flags": [
+    "F2",
+    "F3",
+    "F5",
+    "F7"
+  ]
+}

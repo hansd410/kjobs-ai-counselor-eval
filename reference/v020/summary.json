@@ -1,0 +1,319 @@
+{
+  "f1_branch": [
+    {
+      "condition": "C3",
+      "branch": "career",
+      "n": 90,
+      "f1_sessions": 9,
+      "rate": 0.1
+    },
+    {
+      "condition": "C3",
+      "branch": "hope_return",
+      "n": 90,
+      "f1_sessions": 8,
+      "rate": 0.08888888888888889
+    },
+    {
+      "condition": "C3",
+      "branch": "local_gov",
+      "n": 90,
+      "f1_sessions": 4,
+      "rate": 0.044444444444444446
+    },
+    {
+      "condition": "C3",
+      "branch": "outplacement",
+      "n": 90,
+      "f1_sessions": 11,
+      "rate": 0.12222222222222222
+    },
+    {
+      "condition": "C3",
+      "branch": "university",
+      "n": 90,
+      "f1_sessions": 4,
+      "rate": 0.044444444444444446
+    },
+    {
+      "condition": "C4",
+      "branch": "career",
+      "n": 90,
+      "f1_sessions": 8,
+      "rate": 0.08888888888888889
+    },
+    {
+      "condition": "C4",
+      "branch": "hope_return",
+      "n": 90,
+      "f1_sessions": 7,
+      "rate": 0.07777777777777778
+    },
+    {
+      "condition": "C4",
+      "branch": "local_gov",
+      "n": 90,
+      "f1_sessions": 14,
+      "rate": 0.15555555555555556
+    },
+    {
+      "condition": "C4",
+      "branch": "outplacement",
+      "n": 90,
+      "f1_sessions": 12,
+      "rate": 0.13333333333333333
+    },
+    {
+      "condition": "C4",
+      "branch": "university",
+      "n": 90,
+      "f1_sessions": 6,
+      "rate": 0.06666666666666667
+    }
+  ],
+  "c4_f1_behavior": [
+    {
+      "behavior": "감정적",
+      "n": 75,
+      "f1_sessions": 11,
+      "rate": 0.14666666666666667
+    },
+    {
+      "behavior": "무리한요구",
+      "n": 75,
+      "f1_sessions": 12,
+      "rate": 0.16
+    },
+    {
+      "behavior": "비협조적",
+      "n": 75,
+      "f1_sessions": 6,
+      "rate": 0.08
+    },
+    {
+      "behavior": "주제이탈",
+      "n": 75,
+      "f1_sessions": 4,
+      "rate": 0.05333333333333334
+    },
+    {
+      "behavior": "짧은단답",
+      "n": 75,
+      "f1_sessions": 8,
+      "rate": 0.10666666666666667
+    },
+    {
+      "behavior": "협조적",
+      "n": 75,
+      "f1_sessions": 6,
+      "rate": 0.08
+    }
+  ],
+  "c4_f1_patterns": [
+    {
+      "pattern_id": "F1-P01",
+      "pattern": "찾아\\s*보(겠|을게|드리겠)",
+      "sessions": 36,
+      "turn_pattern_hits": 41
+    },
+    {
+      "pattern_id": "F1-P02",
+      "pattern": "알아\\s*보(겠|을게|드리겠)",
+      "sessions": 0,
+      "turn_pattern_hits": 0
+    },
+    {
+      "pattern_id": "F1-P03",
+      "pattern": "검색해\\s*(보|드리)(겠|을게)",
+      "sessions": 6,
+      "turn_pattern_hits": 6
+    },
+    {
+      "pattern_id": "F1-P04",
+      "pattern": "조회해\\s*(보|드리)(겠|을게)",
+      "sessions": 0,
+      "turn_pattern_hits": 0
+    },
+    {
+      "pattern_id": "F1-P05",
+      "pattern": "확인해\\s*(보|드리)(겠|을게)",
+      "sessions": 6,
+      "turn_pattern_hits": 6
+    },
+    {
+      "pattern_id": "F1-P06",
+      "pattern": "(띄워|올려|보내|전달해|첨부해)\\s*(드리겠|드릴게|놓았|두었|뒀|놨)",
+      "sessions": 0,
+      "turn_pattern_hits": 0
+    },
+    {
+      "pattern_id": "F1-P07",
+      "pattern": "화면\\s*(아래|하단|위)에.*(띄웠|띄워|표시|올려)",
+      "sessions": 0,
+      "turn_pattern_hits": 0
+    },
+    {
+      "pattern_id": "F1-P08",
+      "pattern": "(문자|메일|이메일|카톡)로\\s*(보내|전송|발송)",
+      "sessions": 0,
+      "turn_pattern_hits": 0
+    },
+    {
+      "pattern_id": "F1-P09",
+      "pattern": "(담당자|상담사)에게\\s*(전달|연결)해\\s*(드리|드릴)",
+      "sessions": 0,
+      "turn_pattern_hits": 0
+    },
+    {
+      "pattern_id": "F1-P10",
+      "pattern": "(예약|신청|등록|접수)해\\s*드(리겠|릴게)",
+      "sessions": 0,
+      "turn_pattern_hits": 0
+    }
+  ],
+  "c4_f1_personas": 42,
+  "c4_f1_hit_turns": 53,
+  "c4_f1_hits": 53,
+  "c4_f1_sessions": 47,
+  "rationale": {
+    "gpt_verdicts": 2250,
+    "original_empty": 918,
+    "original_empty_rate": 0.408,
+    "all_llm_failures_false": 918,
+    "annotations_written": 918,
+    "unannotated_empty": 0,
+    "api_calls": 0,
+    "api_cost_usd": 0,
+    "original_rationale_empty_after": 918,
+    "code_positive_counts_overlapping": {
+      "F7_occupation": 28
+    },
+    "original_judgments_modified": false,
+    "meaning": "Post-hoc stored-data annotation; not new or recovered GPT rationale. Original missingness remains."
+  },
+  "s6": {
+    "denominator_csv_rows": 234,
+    "historical_sheet_count": 221,
+    "classification_counts": {
+      "out_of_scope_ui": 88,
+      "out_of_scope_other": 92,
+      "seed_and_rubric": 52,
+      "rubric_only": 2
+    },
+    "classified_rows": 234,
+    "classification_coverage": 1.0,
+    "behavior_rows": 54,
+    "behavior_seed_or_rubric": 54,
+    "behavior_coverage": 1.0,
+    "behavior_direct_seed_rows": 52,
+    "behavior_direct_seed_coverage": 0.9629629629629629,
+    "reconciled_seed_links": 9,
+    "rubric_only_rows": [
+      175,
+      217
+    ],
+    "note": "Primary-code mapping coverage, not issue resolution, secondary-issue completeness, or test pass rate."
+  },
+  "c2_c3_by_branch": [
+    {
+      "branch": "career",
+      "total_pairs": 90,
+      "a_wins": 39,
+      "b_wins": 51,
+      "ties": 0,
+      "n": 90,
+      "undecidable": 0,
+      "b_winrate": 0.567,
+      "ci95": [
+        0.467,
+        0.667
+      ],
+      "per_judge": {
+        "claude-opus-4-6": 0.589,
+        "openai/gpt-5.4": 0.489,
+        "claude-sonnet-4-6": 0.556
+      },
+      "position_swapped_share": 0.474
+    },
+    {
+      "branch": "hope_return",
+      "total_pairs": 90,
+      "a_wins": 41,
+      "b_wins": 49,
+      "ties": 0,
+      "n": 90,
+      "undecidable": 0,
+      "b_winrate": 0.544,
+      "ci95": [
+        0.444,
+        0.644
+      ],
+      "per_judge": {
+        "claude-opus-4-6": 0.6,
+        "openai/gpt-5.4": 0.6,
+        "claude-sonnet-4-6": 0.5
+      },
+      "position_swapped_share": 0.463
+    },
+    {
+      "branch": "local_gov",
+      "total_pairs": 90,
+      "a_wins": 31,
+      "b_wins": 57,
+      "ties": 0,
+      "n": 88,
+      "undecidable": 2,
+      "b_winrate": 0.648,
+      "ci95": [
+        0.545,
+        0.739
+      ],
+      "per_judge": {
+        "claude-opus-4-6": 0.642,
+        "openai/gpt-5.4": 0.591,
+        "claude-sonnet-4-6": 0.676
+      },
+      "position_swapped_share": 0.451
+    },
+    {
+      "branch": "outplacement",
+      "total_pairs": 90,
+      "a_wins": 36,
+      "b_wins": 54,
+      "ties": 0,
+      "n": 90,
+      "undecidable": 0,
+      "b_winrate": 0.6,
+      "ci95": [
+        0.489,
+        0.7
+      ],
+      "per_judge": {
+        "claude-opus-4-6": 0.567,
+        "openai/gpt-5.4": 0.511,
+        "claude-sonnet-4-6": 0.6
+      },
+      "position_swapped_share": 0.5
+    },
+    {
+      "branch": "university",
+      "total_pairs": 90,
+      "a_wins": 43,
+      "b_wins": 47,
+      "ties": 0,
+      "n": 90,
+      "undecidable": 0,
+      "b_winrate": 0.522,
+      "ci95": [
+        0.422,
+        0.622
+      ],
+      "per_judge": {
+        "claude-opus-4-6": 0.478,
+        "openai/gpt-5.4": 0.522,
+        "claude-sonnet-4-6": 0.522
+      },
+      "position_swapped_share": 0.511
+    }
+  ]
+}

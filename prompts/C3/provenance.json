@@ -1,0 +1,44 @@
+[
+  {
+    "file": "core.md",
+    "experimental_source_sha256": "de2f62f5d457c3308a16967e79602d0abc49cfbdee05b2d0702626f2563181e9",
+    "export_sha256": "cd576d56034f2e1809d63f1ee538ff8b8e18a5d6b57b5402b0dd259fbc4a7775",
+    "source_tag": "prereg-v1.3",
+    "transformation": "identity/contact redaction only; no behavioral rule edits"
+  },
+  {
+    "file": "delta_career.md",
+    "experimental_source_sha256": "3b283804670861f969c6cfed3e8e29f6d51d8f7c3c6736bf8fb80650e7c4527e",
+    "export_sha256": "3b283804670861f969c6cfed3e8e29f6d51d8f7c3c6736bf8fb80650e7c4527e",
+    "source_tag": "prereg-v1.3",
+    "transformation": "identity/contact redaction only; no behavioral rule edits"
+  },
+  {
+    "file": "delta_outplacement.md",
+    "experimental_source_sha256": "745b6c4765cc03aa4b30a032ca4c71f3e75ab47aaf0f2c8cf26af07b3ad228fa",
+    "export_sha256": "745b6c4765cc03aa4b30a032ca4c71f3e75ab47aaf0f2c8cf26af07b3ad228fa",
+    "source_tag": "prereg-v1.3",
+    "transformation": "identity/contact redaction only; no behavioral rule edits"
+  },
+  {
+    "file": "delta_hope_return.md",
+    "experimental_source_sha256": "f0f1286523d70bfff05b2aefaca266be0b001afe08922f7702c3525cc78658c2",
+    "export_sha256": "f0f1286523d70bfff05b2aefaca266be0b001afe08922f7702c3525cc78658c2",
+    "source_tag": "prereg-v1.3",
+    "transformation": "identity/contact redaction only; no behavioral rule edits"
+  },
+  {
+    "file": "delta_local_gov.md",
+    "experimental_source_sha256": "8311f3e31a8ea596247a66d714e6177188e2eeb5b53dd0f64a32544104890177",
+    "export_sha256": "8311f3e31a8ea596247a66d714e6177188e2eeb5b53dd0f64a32544104890177",
+    "source_tag": "prereg-v1.3",
+    "transformation": "identity/contact redaction only; no behavioral rule edits"
+  },
+  {
+    "file": "delta_university.md",
+    "experimental_source_sha256": "f991c229a2219e77724f75a12463fff936415bc5c73925475b88abc763eddb70",
+    "export_sha256": "f991c229a2219e77724f75a12463fff936415bc5c73925475b88abc763eddb70",
+    "source_tag": "prereg-v1.3",
+    "transformation": "identity/contact redaction only; no behavioral rule edits"
+  }
+]

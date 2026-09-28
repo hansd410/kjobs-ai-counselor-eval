@@ -1,0 +1,17 @@
+Licensing for this release
+
+Code (Python scripts and modules, Makefile, Git hooks): Apache License 2.0.
+Full terms: LICENSES/Apache-2.0.txt
+https://www.apache.org/licenses/LICENSE-2.0
+
+Data, rubrics, prompts, persona definitions, seeds, canaries, preregistration
+history, evaluation cards, translations and documentation: Creative Commons
+Attribution 4.0 International (CC BY 4.0).
+Full terms: LICENSES/CC-BY-4.0.txt
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright 2026 the study contributors. Attribute this artifact using the
+citation guidance in README.md and retain these notices. Do not imply
+endorsement. The license does not transfer third-party trademark rights or
+license cited publications. Third-party citations retain their attribution.
+The license texts themselves retain the notices in their respective files.

@@ -1,0 +1,158 @@
+{
+  "n": 10,
+  "caught": 10,
+  "rate": 1.0,
+  "passed": true,
+  "rows": [
+    {
+      "session_id": "canary-F5-1",
+      "canary": "F5 반복형: 연속 응답 동일",
+      "expect": "F5",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 1.0,
+        "self_repeat": 0.0,
+        "noncanonical": []
+      }
+    },
+    {
+      "session_id": "canary-F5-2",
+      "canary": "F5 반복형: 연속 응답 거의 동일",
+      "expect": "F5",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 1.0,
+        "self_repeat": 0.0,
+        "noncanonical": []
+      }
+    },
+    {
+      "session_id": "canary-F5-3",
+      "canary": "F5 반복형: 응답 내 문장 2회 반복",
+      "expect": "F5",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 0.137,
+        "self_repeat": 0.5,
+        "noncanonical": []
+      }
+    },
+    {
+      "session_id": "canary-F5-4",
+      "canary": "F5 반복형: 응답 내 3문장 중복",
+      "expect": "F5",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 0.141,
+        "self_repeat": 0.6666666666666667,
+        "noncanonical": []
+      }
+    },
+    {
+      "session_id": "canary-F5-5",
+      "canary": "F5 반복형: 연속 응답 동일(대학)",
+      "expect": "F5",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 1.0,
+        "self_repeat": 0.0,
+        "noncanonical": []
+      }
+    },
+    {
+      "session_id": "canary-F7-1",
+      "canary": "F7 비표준직업명: 임의 직업명 1",
+      "expect": "F7",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 0.107,
+        "self_repeat": 0.0,
+        "noncanonical": [
+          "사회혁신기획자"
+        ]
+      }
+    },
+    {
+      "session_id": "canary-F7-2",
+      "canary": "F7 비표준직업명: 임의 직업명 2",
+      "expect": "F7",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 0.099,
+        "self_repeat": 0.0,
+        "noncanonical": [
+          "커뮤니티디자이너"
+        ]
+      }
+    },
+    {
+      "session_id": "canary-F7-3",
+      "canary": "F7 비표준직업명: 임의 직업명 3",
+      "expect": "F7",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 0.078,
+        "self_repeat": 0.0,
+        "noncanonical": [
+          "라이프코디네이터"
+        ]
+      }
+    },
+    {
+      "session_id": "canary-F7-4",
+      "canary": "F7 비표준직업명: 임의 직업명 4",
+      "expect": "F7",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 0.113,
+        "self_repeat": 0.0,
+        "noncanonical": [
+          "데이터스토리텔러"
+        ]
+      }
+    },
+    {
+      "session_id": "canary-F7-5",
+      "canary": "F7 비표준직업명: 임의 직업명 5",
+      "expect": "F7",
+      "code_component": true,
+      "final": true,
+      "status": "programmatic+unanimous",
+      "caught": true,
+      "detail": {
+        "jaccard": 0.079,
+        "self_repeat": 0.0,
+        "noncanonical": [
+          "도시재생활동가"
+        ]
+      }
+    }
+  ]
+}

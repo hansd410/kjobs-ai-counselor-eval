@@ -1,0 +1,291 @@
+[
+  {
+    "name": "submit_verdict",
+    "description": "루브릭 채점 결과 제출",
+    "input_schema": {
+      "$defs": {
+        "Failures": {
+          "properties": {
+            "F1": {
+              "description": "근거 없는 행동 약속 (코드 판정 참고용)",
+              "title": "F1",
+              "type": "boolean"
+            },
+            "F2": {
+              "description": "능력 범위 회피(대안 미제시)",
+              "title": "F2",
+              "type": "boolean"
+            },
+            "F3": {
+              "description": "갈래 특화 실패",
+              "title": "F3",
+              "type": "boolean"
+            },
+            "F4": {
+              "description": "환각 추천(공고) (코드 판정 참고용)",
+              "title": "F4",
+              "type": "boolean"
+            },
+            "F5": {
+              "description": "F5-잔여: 기제공 정보 재질문 또는 프로필 미반영 일반론 (반복은 코드가 판정하므로 여기서 보지 않음)",
+              "title": "F5",
+              "type": "boolean"
+            },
+            "F6": {
+              "description": "세션 관리 실패 (코드 판정 참고용)",
+              "title": "F6",
+              "type": "boolean"
+            },
+            "F7": {
+              "description": "F7-잔여: 행동 계획이 기간·행동·확인방법 3요소 중 2개 이상 결여 (직업명 표준성은 코드가 판정)",
+              "title": "F7",
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "F1",
+            "F2",
+            "F3",
+            "F4",
+            "F5",
+            "F6",
+            "F7"
+          ],
+          "title": "Failures",
+          "type": "object"
+        },
+        "Scores": {
+          "properties": {
+            "process": {
+              "maximum": 5,
+              "minimum": 1,
+              "title": "Process",
+              "type": "integer"
+            },
+            "exploration": {
+              "maximum": 5,
+              "minimum": 1,
+              "title": "Exploration",
+              "type": "integer"
+            },
+            "accuracy": {
+              "maximum": 5,
+              "minimum": 1,
+              "title": "Accuracy",
+              "type": "integer"
+            },
+            "personalization": {
+              "maximum": 5,
+              "minimum": 1,
+              "title": "Personalization",
+              "type": "integer"
+            },
+            "actionability": {
+              "maximum": 5,
+              "minimum": 1,
+              "title": "Actionability",
+              "type": "integer"
+            },
+            "empathy": {
+              "maximum": 5,
+              "minimum": 1,
+              "title": "Empathy",
+              "type": "integer"
+            },
+            "branch_fit": {
+              "maximum": 5,
+              "minimum": 1,
+              "title": "Branch Fit",
+              "type": "integer"
+            }
+          },
+          "required": [
+            "process",
+            "exploration",
+            "accuracy",
+            "personalization",
+            "actionability",
+            "empathy",
+            "branch_fit"
+          ],
+          "title": "Scores",
+          "type": "object"
+        }
+      },
+      "description": "모델이 채우는 부분 (tool input 스키마). 필드 순서 = 생성 순서: 필수 항목을 앞에 둔다.",
+      "properties": {
+        "failures": {
+          "$ref": "#/$defs/Failures"
+        },
+        "scores": {
+          "$ref": "#/$defs/Scores"
+        },
+        "rationale": {
+          "default": "",
+          "description": "각 실패 판정의 근거 발화 인용. 800자 이내로 간결하게. 반드시 채울 것",
+          "title": "Rationale",
+          "type": "string"
+        },
+        "coverage": {
+          "anyOf": [
+            {
+              "maximum": 1,
+              "minimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "은닉 프로필 key_facts 중 상담사가 끌어낸 비율 (0~1). 반드시 채울 것",
+          "title": "Coverage"
+        },
+        "covered_facts": {
+          "description": "끌어낸 key_facts 원문 (짧게)",
+          "items": {
+            "type": "string"
+          },
+          "title": "Covered Facts",
+          "type": "array"
+        }
+      },
+      "required": [
+        "failures",
+        "scores"
+      ],
+      "title": "SessionVerdictOut",
+      "type": "object"
+    }
+  },
+  {
+    "name": "submit_turn_verdicts",
+    "description": "턴 단위 실패 판정 제출",
+    "input_schema": {
+      "$defs": {
+        "Failures": {
+          "properties": {
+            "F1": {
+              "description": "근거 없는 행동 약속 (코드 판정 참고용)",
+              "title": "F1",
+              "type": "boolean"
+            },
+            "F2": {
+              "description": "능력 범위 회피(대안 미제시)",
+              "title": "F2",
+              "type": "boolean"
+            },
+            "F3": {
+              "description": "갈래 특화 실패",
+              "title": "F3",
+              "type": "boolean"
+            },
+            "F4": {
+              "description": "환각 추천(공고) (코드 판정 참고용)",
+              "title": "F4",
+              "type": "boolean"
+            },
+            "F5": {
+              "description": "F5-잔여: 기제공 정보 재질문 또는 프로필 미반영 일반론 (반복은 코드가 판정하므로 여기서 보지 않음)",
+              "title": "F5",
+              "type": "boolean"
+            },
+            "F6": {
+              "description": "세션 관리 실패 (코드 판정 참고용)",
+              "title": "F6",
+              "type": "boolean"
+            },
+            "F7": {
+              "description": "F7-잔여: 행동 계획이 기간·행동·확인방법 3요소 중 2개 이상 결여 (직업명 표준성은 코드가 판정)",
+              "title": "F7",
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "F1",
+            "F2",
+            "F3",
+            "F4",
+            "F5",
+            "F6",
+            "F7"
+          ],
+          "title": "Failures",
+          "type": "object"
+        },
+        "TurnVerdictOut": {
+          "properties": {
+            "turn_index": {
+              "title": "Turn Index",
+              "type": "integer"
+            },
+            "failures": {
+              "$ref": "#/$defs/Failures"
+            },
+            "note": {
+              "description": "해당 턴 문제 발화 인용 (없으면 빈 문자열)",
+              "title": "Note",
+              "type": "string"
+            }
+          },
+          "required": [
+            "turn_index",
+            "failures",
+            "note"
+          ],
+          "title": "TurnVerdictOut",
+          "type": "object"
+        }
+      },
+      "properties": {
+        "turns": {
+          "items": {
+            "$ref": "#/$defs/TurnVerdictOut"
+          },
+          "title": "Turns",
+          "type": "array"
+        }
+      },
+      "required": [
+        "turns"
+      ],
+      "title": "TurnVerdictsOut",
+      "type": "object"
+    }
+  },
+  {
+    "name": "submit_pairwise",
+    "description": "A/B 비교 결과 제출",
+    "input_schema": {
+      "properties": {
+        "winner": {
+          "enum": [
+            "A",
+            "B",
+            "tie"
+          ],
+          "title": "Winner",
+          "type": "string"
+        },
+        "rationale": {
+          "default": "",
+          "description": "결정적 차이 한두 문장 (200자 이내)",
+          "title": "Rationale",
+          "type": "string"
+        },
+        "confidence": {
+          "default": 0.5,
+          "maximum": 1,
+          "minimum": 0,
+          "title": "Confidence",
+          "type": "number"
+        }
+      },
+      "required": [
+        "winner"
+      ],
+      "title": "PairwiseOut",
+      "type": "object"
+    }
+  }
+]

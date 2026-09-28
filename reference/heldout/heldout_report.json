@@ -1,0 +1,38 @@
+{
+  "heldout_judge": "google/gemini-3.1-pro",
+  "resolved_model": "gemini-3.1-pro-preview",
+  "pair": [
+    "C3",
+    "C4"
+  ],
+  "n": 445,
+  "errors": 5,
+  "heldout_b_winrate": 0.703,
+  "heldout_ci95": [
+    0.661,
+    0.746
+  ],
+  "ensemble_b_winrate": 0.737,
+  "agreement_with_majority": 0.787,
+  "kappa_with_majority": 0.471,
+  "per_judge": {
+    "claude-opus-4-6": {
+      "agreement": 0.757,
+      "kappa": 0.414,
+      "b_winrate": 0.717
+    },
+    "claude-sonnet-4-6": {
+      "agreement": 0.771,
+      "kappa": 0.452,
+      "b_winrate": 0.704
+    },
+    "openai/gpt-5.4": {
+      "agreement": 0.71,
+      "kappa": 0.319,
+      "b_winrate": 0.683
+    }
+  },
+  "swapped_share": 0.508,
+  "direction_consistent": true,
+  "s4_verdict": "held-out 심판도 같은 방향(CI 하한 > 0.5) — 지표 해킹 징후 없음"
+}

@@ -1,0 +1,86 @@
+{
+  "$defs": {
+    "HiddenProfile": {
+      "properties": {
+        "suitable_jobs": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Suitable Jobs",
+          "type": "array"
+        },
+        "constraints": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Constraints",
+          "type": "array"
+        },
+        "key_facts": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Key Facts",
+          "type": "array"
+        }
+      },
+      "required": [
+        "suitable_jobs",
+        "constraints",
+        "key_facts"
+      ],
+      "title": "HiddenProfile",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "persona_id": {
+      "title": "Persona Id",
+      "type": "string"
+    },
+    "branch": {
+      "enum": [
+        "career",
+        "outplacement",
+        "hope_return",
+        "local_gov",
+        "university"
+      ],
+      "title": "Branch",
+      "type": "string"
+    },
+    "surface": {
+      "title": "Surface",
+      "type": "string"
+    },
+    "behavior": {
+      "enum": [
+        "짧은단답",
+        "감정적",
+        "비협조적",
+        "주제이탈",
+        "무리한요구",
+        "협조적"
+      ],
+      "title": "Behavior",
+      "type": "string"
+    },
+    "openness_init": {
+      "title": "Openness Init",
+      "type": "number"
+    },
+    "hidden_profile": {
+      "$ref": "#/$defs/HiddenProfile"
+    }
+  },
+  "required": [
+    "persona_id",
+    "branch",
+    "surface",
+    "behavior",
+    "openness_init",
+    "hidden_profile"
+  ],
+  "title": "Persona",
+  "type": "object"
+}

@@ -1,0 +1,1058 @@
+{
+  "algorithm": "SHA-256 rank of release-v0.2.2|session_id, lowest 2 per stratum",
+  "population": 2250,
+  "sample": 300,
+  "strata": [
+    {
+      "condition": "C0",
+      "branch": "career",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "career",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "career",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "career",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "career",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "career",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "hope_return",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "hope_return",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "hope_return",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "hope_return",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "hope_return",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "hope_return",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "local_gov",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "local_gov",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "local_gov",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "local_gov",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "local_gov",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "local_gov",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "outplacement",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "outplacement",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "outplacement",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "outplacement",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "outplacement",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "outplacement",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "university",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "university",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "university",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "university",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "university",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C0",
+      "branch": "university",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "career",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "career",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "career",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "career",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "career",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "career",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "hope_return",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "hope_return",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "hope_return",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "hope_return",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "hope_return",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "hope_return",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "local_gov",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "local_gov",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "local_gov",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "local_gov",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "local_gov",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "local_gov",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "outplacement",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "outplacement",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "outplacement",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "outplacement",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "outplacement",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "outplacement",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "university",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "university",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "university",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "university",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "university",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C1",
+      "branch": "university",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "career",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "career",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "career",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "career",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "career",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "career",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "hope_return",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "hope_return",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "hope_return",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "hope_return",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "hope_return",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "hope_return",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "local_gov",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "local_gov",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "local_gov",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "local_gov",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "local_gov",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "local_gov",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "outplacement",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "outplacement",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "outplacement",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "outplacement",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "outplacement",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "outplacement",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "university",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "university",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "university",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "university",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "university",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C2",
+      "branch": "university",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "career",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "career",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "career",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "career",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "career",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "career",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "hope_return",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "hope_return",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "hope_return",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "hope_return",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "hope_return",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "hope_return",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "local_gov",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "local_gov",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "local_gov",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "local_gov",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "local_gov",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "local_gov",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "outplacement",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "outplacement",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "outplacement",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "outplacement",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "outplacement",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "outplacement",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "university",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "university",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "university",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "university",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "university",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C3",
+      "branch": "university",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "career",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "career",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "career",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "career",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "career",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "career",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "hope_return",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "hope_return",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "hope_return",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "hope_return",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "hope_return",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "hope_return",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "local_gov",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "local_gov",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "local_gov",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "local_gov",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "local_gov",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "local_gov",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "outplacement",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "outplacement",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "outplacement",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "outplacement",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "outplacement",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "outplacement",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "university",
+      "behavior": "감정적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "university",
+      "behavior": "무리한요구",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "university",
+      "behavior": "비협조적",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "university",
+      "behavior": "주제이탈",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "university",
+      "behavior": "짧은단답",
+      "population": 15,
+      "sample": 2
+    },
+    {
+      "condition": "C4",
+      "branch": "university",
+      "behavior": "협조적",
+      "population": 15,
+      "sample": 2
+    }
+  ],
+  "note": "Synthetic sessions; release sample, not the P5 human-audit sample. No population-wide transcript release."
+}

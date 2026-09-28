@@ -1,0 +1,107 @@
+{
+  "failures": {
+    "F1": {
+      "kappa": 0.999,
+      "positive_rate": 0.149,
+      "programmatic": true,
+      "partial_programmatic": false,
+      "flag": false
+    },
+    "F2": {
+      "kappa": 0.131,
+      "positive_rate": 0.007,
+      "programmatic": false,
+      "partial_programmatic": false,
+      "flag": true
+    },
+    "F3": {
+      "kappa": 0.012,
+      "positive_rate": 0.008,
+      "programmatic": false,
+      "partial_programmatic": false,
+      "flag": true
+    },
+    "F4": {
+      "kappa": 0.988,
+      "positive_rate": 0.012,
+      "programmatic": true,
+      "partial_programmatic": false,
+      "flag": false
+    },
+    "F5": {
+      "kappa": 0.187,
+      "positive_rate": 0.121,
+      "programmatic": false,
+      "partial_programmatic": true,
+      "flag": true
+    },
+    "F6": {
+      "kappa": 1.0,
+      "positive_rate": 0.273,
+      "programmatic": true,
+      "partial_programmatic": false,
+      "flag": false
+    },
+    "F7": {
+      "kappa": 0.101,
+      "positive_rate": 0.164,
+      "programmatic": false,
+      "partial_programmatic": true,
+      "flag": true
+    }
+  },
+  "scores": {
+    "process": {
+      "kappa": 0.609,
+      "icc2k": 0.947,
+      "mean_range": 0.393,
+      "flag": false
+    },
+    "exploration": {
+      "kappa": 0.465,
+      "icc2k": 0.85,
+      "mean_range": 0.476,
+      "flag": false
+    },
+    "accuracy": {
+      "kappa": 0.472,
+      "icc2k": 0.838,
+      "mean_range": 0.485,
+      "flag": false
+    },
+    "personalization": {
+      "kappa": 0.365,
+      "icc2k": 0.843,
+      "mean_range": 0.632,
+      "flag": false
+    },
+    "actionability": {
+      "kappa": 0.41,
+      "icc2k": 0.893,
+      "mean_range": 0.622,
+      "flag": false
+    },
+    "empathy": {
+      "kappa": 0.434,
+      "icc2k": 0.794,
+      "mean_range": 0.362,
+      "flag": false
+    },
+    "branch_fit": {
+      "kappa": 0.401,
+      "icc2k": 0.854,
+      "mean_range": 0.56,
+      "flag": false
+    }
+  },
+  "n_sessions": 2250,
+  "flags": [
+    "F2",
+    "F3",
+    "F5",
+    "F7"
+  ],
+  "kappa_threshold": 0.6,
+  "undecidable_sessions": 0,
+  "undecidable_by_key": {}
+}

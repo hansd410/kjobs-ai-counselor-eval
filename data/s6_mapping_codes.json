@@ -1,0 +1,1874 @@
+[
+  {
+    "row_id": "1",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "2",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "3",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "4",
+    "primary_code": "F6",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-022",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "5",
+    "primary_code": "F6",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-015",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "6",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "7",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "8",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "9",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "10",
+    "primary_code": "기타",
+    "secondary_codes": "F6",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "11",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "12",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "13",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "14",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "15",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "16",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "17",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "18",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "19",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "20",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "21",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "22",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "23",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "24",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "25",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "26",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "27",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "28",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "29",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "30",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "31",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "32",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "33",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "34",
+    "primary_code": "F5",
+    "secondary_codes": "기타",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-012",
+    "rubric_item": "A.F5 / B.4 개인화"
+  },
+  {
+    "row_id": "35",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "36",
+    "primary_code": "F7",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-019",
+    "rubric_item": "A.F7 / B.5 행동 가능성"
+  },
+  {
+    "row_id": "37",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "38",
+    "primary_code": "F7",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-018",
+    "rubric_item": "A.F7 / B.5 행동 가능성"
+  },
+  {
+    "row_id": "39",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "40",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "41",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "42",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "43",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "44",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "45",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "46",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "47",
+    "primary_code": "F5",
+    "secondary_codes": "F7",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-025",
+    "rubric_item": "A.F5 / B.4 개인화"
+  },
+  {
+    "row_id": "48",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "49",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "50",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "51",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "52",
+    "primary_code": "F5",
+    "secondary_codes": "F1",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-025",
+    "rubric_item": "A.F5 / B.4 개인화"
+  },
+  {
+    "row_id": "53",
+    "primary_code": "F6",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-022",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "54",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "55",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "56",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "57",
+    "primary_code": "F6",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-022",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "58",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "59",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "60",
+    "primary_code": "F1",
+    "secondary_codes": "F4",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-002",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "61",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "62",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "63",
+    "primary_code": "F6",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-015",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "64",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "65",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "66",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-003",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "67",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "68",
+    "primary_code": "기타",
+    "secondary_codes": "F2",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "69",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "70",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "71",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-021",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "72",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "73",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "74",
+    "primary_code": "UI버그",
+    "secondary_codes": "기타",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "75",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "76",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "77",
+    "primary_code": "기타",
+    "secondary_codes": "F5;UI버그",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "78",
+    "primary_code": "F6",
+    "secondary_codes": "F1;F5;UI버그",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-022",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "79",
+    "primary_code": "F4",
+    "secondary_codes": "기타",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-011",
+    "rubric_item": "A.F4 / B.3 정보 정확성"
+  },
+  {
+    "row_id": "80",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "81",
+    "primary_code": "F5",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-013",
+    "rubric_item": "A.F5 / B.4 개인화"
+  },
+  {
+    "row_id": "82",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "83",
+    "primary_code": "기타",
+    "secondary_codes": "F6",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "84",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "85",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "86",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "87",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "88",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "89",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "90",
+    "primary_code": "F5",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-014",
+    "rubric_item": "A.F5 / B.4 개인화"
+  },
+  {
+    "row_id": "91",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "92",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "93",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "94",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "95",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "96",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "97",
+    "primary_code": "F1",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-020",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "98",
+    "primary_code": "기타",
+    "secondary_codes": "F7",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "99",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "100",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "101",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "102",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "103",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "104",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "105",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "106",
+    "primary_code": "F1",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-001",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "107",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "108",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "109",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "110",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "111",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "112",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "113",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "114",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "115",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "116",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "117",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "118",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "119",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "120",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "121",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "122",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "123",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "124",
+    "primary_code": "기타",
+    "secondary_codes": "F7",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "125",
+    "primary_code": "F4",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-011",
+    "rubric_item": "A.F4 / B.3 정보 정확성"
+  },
+  {
+    "row_id": "126",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-021",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "127",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-024",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "128",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "129",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "130",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "131",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "132",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "133",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "134",
+    "primary_code": "F4",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-011",
+    "rubric_item": "A.F4 / B.3 정보 정확성"
+  },
+  {
+    "row_id": "135",
+    "primary_code": "F4",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-010",
+    "rubric_item": "A.F4 / B.3 정보 정확성"
+  },
+  {
+    "row_id": "136",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "137",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "138",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "139",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "140",
+    "primary_code": "F5",
+    "secondary_codes": "F2",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-026",
+    "rubric_item": "A.F5 / B.4 개인화"
+  },
+  {
+    "row_id": "141",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "142",
+    "primary_code": "기타",
+    "secondary_codes": "F3",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "143",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "144",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "145",
+    "primary_code": "F1",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-002",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "146",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "147",
+    "primary_code": "F3",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-009",
+    "rubric_item": "A.F3 / B.7 갈래 적합성"
+  },
+  {
+    "row_id": "148",
+    "primary_code": "F6",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-016",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "149",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "150",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "151",
+    "primary_code": "F1",
+    "secondary_codes": "F6",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-001",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "152",
+    "primary_code": "F1",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-002",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "153",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "154",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "155",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "156",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "157",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "158",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "159",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "160",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "161",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "162",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "163",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "164",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "165",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "166",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "167",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "168",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "169",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "170",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "171",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "172",
+    "primary_code": "F4",
+    "secondary_codes": "F1",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-011",
+    "rubric_item": "A.F4 / B.3 정보 정확성"
+  },
+  {
+    "row_id": "173",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-004",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "174",
+    "primary_code": "기타",
+    "secondary_codes": "F3",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "175",
+    "primary_code": "F5",
+    "secondary_codes": "",
+    "classification": "rubric_only",
+    "seed_id": "",
+    "rubric_item": "A.F5 / B.4 개인화"
+  },
+  {
+    "row_id": "176",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "177",
+    "primary_code": "F3",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-007",
+    "rubric_item": "A.F3 / B.7 갈래 적합성"
+  },
+  {
+    "row_id": "178",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "179",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "180",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "181",
+    "primary_code": "기타",
+    "secondary_codes": "UI버그",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "182",
+    "primary_code": "F6",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-017",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "183",
+    "primary_code": "F1",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-002",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "184",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "185",
+    "primary_code": "F3",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-007",
+    "rubric_item": "A.F3 / B.7 갈래 적합성"
+  },
+  {
+    "row_id": "186",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "187",
+    "primary_code": "UI버그",
+    "secondary_codes": "기타",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "188",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "189",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "190",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "191",
+    "primary_code": "F6",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-017",
+    "rubric_item": "A.F6 / B.1 프로세스 준수"
+  },
+  {
+    "row_id": "192",
+    "primary_code": "F4",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-010",
+    "rubric_item": "A.F4 / B.3 정보 정확성"
+  },
+  {
+    "row_id": "193",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "194",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "195",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "196",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "197",
+    "primary_code": "F2",
+    "secondary_codes": "F1",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-021",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "198",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-005",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "199",
+    "primary_code": "기타",
+    "secondary_codes": "F3",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "200",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-027",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "201",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "202",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "203",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-005",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "204",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "205",
+    "primary_code": "F1",
+    "secondary_codes": "F3;F6",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-001",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "206",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "207",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "208",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "209",
+    "primary_code": "F2",
+    "secondary_codes": "F4",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-027",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "210",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "211",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "212",
+    "primary_code": "기타",
+    "secondary_codes": "F5",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "213",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "214",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "215",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "216",
+    "primary_code": "F1",
+    "secondary_codes": "F3",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-028",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "217",
+    "primary_code": "F5",
+    "secondary_codes": "F3",
+    "classification": "rubric_only",
+    "seed_id": "",
+    "rubric_item": "A.F5 / B.4 개인화"
+  },
+  {
+    "row_id": "218",
+    "primary_code": "기타",
+    "secondary_codes": "F3",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "219",
+    "primary_code": "F3",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-030",
+    "rubric_item": "A.F3 / B.7 갈래 적합성"
+  },
+  {
+    "row_id": "220",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "221",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "222",
+    "primary_code": "F3",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-023",
+    "rubric_item": "A.F3 / B.7 갈래 적합성"
+  },
+  {
+    "row_id": "223",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "224",
+    "primary_code": "F2",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-006",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "225",
+    "primary_code": "F2",
+    "secondary_codes": "UI버그",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-031",
+    "rubric_item": "A.F2"
+  },
+  {
+    "row_id": "226",
+    "primary_code": "F7",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-019",
+    "rubric_item": "A.F7 / B.5 행동 가능성"
+  },
+  {
+    "row_id": "227",
+    "primary_code": "F1",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-029",
+    "rubric_item": "A.F1"
+  },
+  {
+    "row_id": "228",
+    "primary_code": "F3",
+    "secondary_codes": "",
+    "classification": "seed_and_rubric",
+    "seed_id": "R-008",
+    "rubric_item": "A.F3 / B.7 갈래 적합성"
+  },
+  {
+    "row_id": "229",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "230",
+    "primary_code": "기타",
+    "secondary_codes": "",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "231",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "232",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "233",
+    "primary_code": "UI버그",
+    "secondary_codes": "",
+    "classification": "out_of_scope_ui",
+    "seed_id": "",
+    "rubric_item": ""
+  },
+  {
+    "row_id": "234",
+    "primary_code": "기타",
+    "secondary_codes": "UI버그",
+    "classification": "out_of_scope_other",
+    "seed_id": "",
+    "rubric_item": ""
+  }
+]

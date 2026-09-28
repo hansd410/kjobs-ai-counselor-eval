@@ -1,0 +1,24 @@
+{
+  "release": "v0.2.2",
+  "internal_history_copied": false,
+  "judgments": 2250,
+  "per_model_judgments": 6750,
+  "pairwise": 1800,
+  "heldout_records": 450,
+  "transcripts": 300,
+  "c3_files": 6,
+  "c4_raw_files": 0,
+  "feedback_csv_files": 0,
+  "production_engine_files": 0,
+  "redactions": {
+    "identity_replacements": 1069,
+    "contact_replacements": 524
+  },
+  "numeric_judgment_fields_unchanged": true,
+  "source_tags": [
+    "rubric-freeze-v2.2.1",
+    "prereg-v1.3"
+  ],
+  "manuscript_section_mapping": "pending exact manuscript",
+  "named_readme": "pending confirmed author metadata"
+}

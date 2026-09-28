@@ -1,0 +1,39 @@
+{
+  "algorithm": "sha256 of casefolded contiguous token substrings",
+  "lengths": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    17,
+    18,
+    51
+  ],
+  "digests": [
+    "06728d7f7d38a133bd0c1ec0e24293d4c1670915b0bb4403d0a9f852da9d4195",
+    "2c16cfd7c2470edc4db06f76f007e15b1ebe821d3dbbbdd3101627a909bdf311",
+    "3ecbe05bec426ab9e31286081b385cf4663a55eb29588da87d898863f2b323b0",
+    "41722396da56cf9cf2db5bc13535a24e37b0c29c9955f22d4a4c6f510f8247b6",
+    "6e0955c5fc716ccba56b38640a22ae6cea7604e7e6cf4a176306fde2345bc844",
+    "70461ea46634e3b4c0ab8e8a827942751d3b66427205434d8b231859524e3053",
+    "74c9ccea031a0501aab56d23ad86d05c421460277977274cabcc17c862ff67cc",
+    "782708567d82705653d3bddd6493092059fbd1264120f76bc6fd5666a1f6a30f",
+    "8488d78eab595f287b9ae35af7fbc66cdf604c666c9d307602c284e7fb4ae5e0",
+    "8e6203c8bcde9a291554dc7da2906be0dca372ad40d9010a103224123747bbbd",
+    "a93fddf70db0cae1b555c3b520b792f59f03f588016be2bada9d829b1d943f33",
+    "b46eeb9cb960328a65bd164b9ec49686e680999cf84c70739a15e8fbbf910a28",
+    "cd710bfede59c511651ef83d10a956c9538299b15049191d734345bbfef4abfa",
+    "ce321a212454028891979c0196ee0f30437bb9bf702f0f5a9e425ab7a85daa19",
+    "f0c15e22ab1e6812981dd4ef600447b6caf3be32f61d9d34c905217ce632c034",
+    "f42953f6c180cadc178289b220fba260ce9c801667dfe161656d9f4d3e076ad5",
+    "f8b846558b7414b7f91a9419252a766443a626aeedbd9ecccc92b8bbab658cd9"
+  ],
+  "categories": [
+    "project organization and aliases",
+    "known author/account identifiers",
+    "fixture employer names"
+  ],
+  "note": "Specific identities are fingerprinted so the anonymous repository does not reveal its own denylist. Bibliographic authors and model providers are not study-author identities."
+}

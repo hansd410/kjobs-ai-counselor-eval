@@ -1,0 +1,56 @@
+{
+  "conditions": [
+    "C0",
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+  ],
+  "seeds": 3,
+  "max_turns": 8,
+  "out": "results/exp_full",
+  "use_batch": true,
+  "workers": 8,
+  "limit_sec": 600,
+  "pairs": [
+    [
+      "C0",
+      "C1"
+    ],
+    [
+      "C1",
+      "C2"
+    ],
+    [
+      "C2",
+      "C3"
+    ],
+    [
+      "C3",
+      "C4"
+    ]
+  ],
+  "judge_models": [
+    "claude-opus-4-6",
+    "openai/gpt-5.4",
+    "claude-sonnet-4-6"
+  ],
+  "personas": "counselor-lab/src/lab/simulator/personas/generated.json",
+  "branches": null,
+  "optimized_dir": "candidates/best",
+  "engine_model": null,
+  "sim_model": null,
+  "skip_sessions": true,
+  "skip_judge": false,
+  "skip_pairwise": false,
+  "smoke": false,
+  "rejudge_all": false,
+  "allow_unfrozen": false,
+  "_judge_note": "v0.0.7: opus + 타사 키 투입 대기 슬롯 + sonnet. 키가 오면 pending 슬롯을 openai/<model> 또는 openai-compat/<model>@<url> 로 교체. 부재 시 J1 미충족 배너 유지",
+  "rubric_freeze": {
+    "frozen": true,
+    "tag": "rubric-freeze-v2.2.1",
+    "rubric_sha": "e5ddf42fb3",
+    "prompt_sha": "1be0b27016"
+  }
+}
